@@ -69,10 +69,6 @@ The goal of this project is to develop a predictive model that estimates the pri
 - The project achieved a Mean Absolute Error (MAE) of X and a Root Mean Squared Error (RMSE) of Y with the Random Forest model, which performed better than the Linear Regression model.
 - Insights gained from feature importance analysis showed that features such as `OverallQual`, `GrLivArea`, and `GarageCars` had the most significant impact on house prices.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project was guided by the book ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron.
